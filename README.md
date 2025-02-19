@@ -5,7 +5,7 @@ Este projeto é uma Web API em .NET Core que demonstra uma integração com os [
 ## Estrutura do Projeto
 
 A solução está organizada em múltiplos projetos, cada um representando uma camada da arquitetura:
-
+```
 CleanAcsService/
 ├── .gitignore
 ├── CleanAcsService.sln
@@ -40,6 +40,7 @@ CleanAcsService/
 ├── SmsControllerTests.cs
 ├── ChatControllerTests.cs 
 └── EmailControllerTests.cs
+```
 
 
 ## Pré-requisitos
