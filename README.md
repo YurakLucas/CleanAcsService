@@ -36,7 +36,8 @@ CleanAcsService/
 │ ├── AcsSmsService.cs 
 │ ├── AcsChatService.cs 
 │ └── AcsEmailService.cs
-└── tests/ └── CleanAcsService.API.Tests/ // Projeto de testes unitários
+└── tests/
+└── CleanAcsService.API.Tests/ // Projeto de testes unitários
 ├── SmsControllerTests.cs
 ├── ChatControllerTests.cs 
 └── EmailControllerTests.cs
